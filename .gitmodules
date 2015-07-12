@@ -1,3 +1,6 @@
 [submodule "libs/Person"]
 	path = libs/Person
 	url = https://github.com/wildcardjoker/Person.git
+[submodule "libs/ContactViewModel"]
+	path = libs/ContactViewModel
+	url = https://github.com/wildcardjoker/ContactViewModel.git

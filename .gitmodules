@@ -1,0 +1,3 @@
+[submodule "libs/Person"]
+	path = libs/Person
+	url = https://github.com/wildcardjoker/Person.git

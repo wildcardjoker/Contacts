@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts", "Contacts\Contac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "libs\Person\Person.csproj", "{1BABF3FD-84B6-463C-85D9-5E467D099601}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactViewModel", "libs\ContactViewModel\ContactViewModel\ContactViewModel.csproj", "{40711A01-A23C-4B85-88CF-E8F767722154}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactViewModel", "libs\ContactViewModel\ContactViewModel.csproj", "{40711A01-A23C-4B85-88CF-E8F767722154}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
